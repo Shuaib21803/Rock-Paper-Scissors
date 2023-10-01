@@ -28,7 +28,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
 img = [rock,paper,scissors]
 while True:
   print('''Press            0 for Rock
